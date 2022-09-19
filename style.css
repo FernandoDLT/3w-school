@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: right;
+    color: rosybrown;
+    background-color: aqua;
+}
+
+p {
+    text-align: center;
+    color: rgb(168, 168, 159);
+    background-color: rgb(235, 17, 169);
+}
